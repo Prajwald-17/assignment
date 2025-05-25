@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="select_date">Select date</string>
+    <string name="select_time">Select time</string>
+    <string name="book_table">Book Table</string>
+    <string name="restaurant_name">Spice Garden</string>
+    <string name="restaurant_image_description">Restaurant image</string>
+    <string name="restaurant_image">Restaurant image</string>
+    <string name="choose_restaurant">Choose a Restaurant</string>
+    <string name="return_to_home">Return to Home</string>
+</resources>
